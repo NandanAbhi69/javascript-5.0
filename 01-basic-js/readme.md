@@ -204,3 +204,25 @@ String Methods :-
 5. str1.concat(str2)
 6. str.replace(searchval,newval)
 7. str.chatAt(idx)
+
+Arrays is JS :-
+
+- collection of items.
+ex -
+let heros = ["ironman","batman","hulk","thor"];
+
+let marks = [89,56,98,23,90];
+
+let info = ["rahul", 89, "delhi", 90];
+
+- array index starting from 0.
+ex - arr[0], arr[1], arr[2].....
+
+Looping over the array :-
+- print the below element in one by one
+- let heros = ["ironman","batman","hulk","thor"];
+- we will do it through loops.
+
+Practice question :-
+q1. For a given array with marks of students -> [85,97,44,37,76,60]. Find the average marks of the entire class.
+q2. For a given array with prices of 5 items -> [250,645,300,900,50]. All items have an offer of 10% OFF on them. change the array to store final price after applying offer.
